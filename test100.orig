@@ -1,0 +1,9 @@
+first commit
+second commit
+<<<<<<< HEAD
+third commit
+||||||| merged common ancestors
+third commit`
+=======
+3rd commit`
+>>>>>>> samy
